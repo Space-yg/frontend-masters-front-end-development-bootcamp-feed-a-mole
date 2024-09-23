@@ -1,4 +1,4 @@
-# Frontend Masters Front-End Development Bootcamp: Feed a Star Mole Game
+# Frontend Masters Front-End Development Bootcamp: Feed-a-Star-Mole Game Project
 
 This is a game project for the [Frontend Masters Front-End Development Bootcamp](https://frontendmasters.com/bootcamp/)!
 
